@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GeminiApiStarter.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Define dark mode colors directly in the theme -->
+        <item name="colorBackground">#121212</item>
+        <item name="colorSurface">#1F1F1F</item>
+        <item name="colorPrimary">#BB86FC</item>
+        <!-- Additional customizations for dark mode -->
+    </style>
+</resources>
